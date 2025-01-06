@@ -1,0 +1,12 @@
+{
+    "Alice": {
+        "username": "Alice",
+        "role": "admin",
+        "session_id": "12345"
+    },
+    "Bob": {
+        "username": "Bob",
+        "role": "user",
+        "session_id": "67890"
+    }
+}
