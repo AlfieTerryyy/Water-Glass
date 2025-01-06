@@ -1,4 +1,4 @@
-# Alfie Terry - Chat Room
+# Water Glass - Chat Room
 
 A simple web-based chat room with username and key-based access. Styled for `alfieterry.co.uk`, this application allows you to host a chat server that can be accessed by anyone with the correct key.
 
